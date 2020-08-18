@@ -1831,38 +1831,6 @@
             "license": [
                 "Apache-2.0"
             ],
-            "authors": [
-                {
-                    "name": "Joe Constant",
-                    "email": "joe.constant@klarna.com",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Dario Kassler",
-                    "email": "dario.kassler@klarna.com",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Kenny Gilles",
-                    "email": "kenny.gilles@klarna.com",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Markus Simon",
-                    "email": "markus.simon2@klarna.com",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Fei Chen",
-                    "email": "fei.chen@klarna.com",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Jason Grim",
-                    "email": "jason.grim@klarna.com",
-                    "role": "Developer"
-                }
-            ],
             "description": "Klarna Core Magento 2 Extension"
         },
         {
@@ -1918,38 +1886,6 @@
             "license": [
                 "Apache-2.0"
             ],
-            "authors": [
-                {
-                    "name": "Joe Constant",
-                    "email": "joe.constant@klarna.com",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Dario Kassler",
-                    "email": "dario.kassler@klarna.com",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Kenny Gilles",
-                    "email": "kenny.gilles@klarna.com",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Markus Simon",
-                    "email": "markus.simon2@klarna.com",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Fei Chen",
-                    "email": "fei.chen@klarna.com",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Jason Grim",
-                    "email": "jason.grim@klarna.com",
-                    "role": "Developer"
-                }
-            ],
             "description": "Klarna Payments Magento 2 Extension"
         },
         {
@@ -1998,38 +1934,6 @@
             },
             "license": [
                 "Apache-2.0"
-            ],
-            "authors": [
-                {
-                    "name": "Joe Constant",
-                    "email": "joe.constant@klarna.com",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Dario Kassler",
-                    "email": "dario.kassler@klarna.com",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Kenny Gilles",
-                    "email": "kenny.gilles@klarna.com",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Markus Simon",
-                    "email": "markus.simon2@klarna.com",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Fei Chen",
-                    "email": "fei.chen@klarna.com",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Jason Grim",
-                    "email": "jason.grim@klarna.com",
-                    "role": "Developer"
-                }
             ],
             "description": "Klarna Order Management Magento 2 Extension"
         },
@@ -14938,16 +14842,16 @@
         },
         {
             "name": "scandipwa/customization",
-            "version": "1.0.3",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/scandipwa/customization.git",
-                "reference": "73a253cb10baa2339f22ef9b575dcd427b8e8aff"
+                "reference": "9b903428e8dd53030a5e5001b72ad569e8abbf66"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/scandipwa/customization/zipball/73a253cb10baa2339f22ef9b575dcd427b8e8aff",
-                "reference": "73a253cb10baa2339f22ef9b575dcd427b8e8aff",
+                "url": "https://api.github.com/repos/scandipwa/customization/zipball/9b903428e8dd53030a5e5001b72ad569e8abbf66",
+                "reference": "9b903428e8dd53030a5e5001b72ad569e8abbf66",
                 "shasum": ""
             },
             "require": {
@@ -14968,7 +14872,7 @@
                 "OSL-3.0"
             ],
             "description": "Customization configuration for ScandiPWA",
-            "time": "2020-06-26T14:50:26+00:00"
+            "time": "2020-07-30T12:59:47+00:00"
         },
         {
             "name": "scandipwa/installer",
@@ -15227,16 +15131,16 @@
         },
         {
             "name": "scandipwa/persisted-query",
-            "version": "2.3.1",
+            "version": "2.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/scandipwa/persisted-query.git",
-                "reference": "69a4d3cc85cf86fb76a22291aed9a59ecea3c29f"
+                "reference": "2338eb8dd5bf7ef9caa726f7854784e87c53d0c3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/scandipwa/persisted-query/zipball/69a4d3cc85cf86fb76a22291aed9a59ecea3c29f",
-                "reference": "69a4d3cc85cf86fb76a22291aed9a59ecea3c29f",
+                "url": "https://api.github.com/repos/scandipwa/persisted-query/zipball/2338eb8dd5bf7ef9caa726f7854784e87c53d0c3",
+                "reference": "2338eb8dd5bf7ef9caa726f7854784e87c53d0c3",
                 "shasum": ""
             },
             "require": {
@@ -15270,20 +15174,20 @@
                 "scandipwa",
                 "theme"
             ],
-            "time": "2020-07-24T13:10:29+00:00"
+            "time": "2020-08-07T08:42:29+00:00"
         },
         {
             "name": "scandipwa/quote-graphql",
-            "version": "2.13.0",
+            "version": "2.14.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/scandipwa/quote-graphql.git",
-                "reference": "24c447f6fd276f23d37e289bb0cb781b6ee6dff1"
+                "reference": "23c86e56727ea56b2b41d81b7990e4131529d689"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/scandipwa/quote-graphql/zipball/24c447f6fd276f23d37e289bb0cb781b6ee6dff1",
-                "reference": "24c447f6fd276f23d37e289bb0cb781b6ee6dff1",
+                "url": "https://api.github.com/repos/scandipwa/quote-graphql/zipball/23c86e56727ea56b2b41d81b7990e4131529d689",
+                "reference": "23c86e56727ea56b2b41d81b7990e4131529d689",
                 "shasum": ""
             },
             "require": {
@@ -15315,7 +15219,7 @@
                 }
             ],
             "description": "N/A",
-            "time": "2020-07-15T13:12:22+00:00"
+            "time": "2020-07-28T10:02:16+00:00"
         },
         {
             "name": "scandipwa/reviews-graphql",
@@ -15489,16 +15393,16 @@
         },
         {
             "name": "scandipwa/source",
-            "version": "2.15.0",
+            "version": "2.16.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/scandipwa/base-theme.git",
-                "reference": "9ded29b1e1b65119474d9d6f0af9fbc3ba06193a"
+                "reference": "e0a6d7c7fb51735a244cfaac45d16a7b7e894e90"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/scandipwa/base-theme/zipball/9ded29b1e1b65119474d9d6f0af9fbc3ba06193a",
-                "reference": "9ded29b1e1b65119474d9d6f0af9fbc3ba06193a",
+                "url": "https://api.github.com/repos/scandipwa/base-theme/zipball/e0a6d7c7fb51735a244cfaac45d16a7b7e894e90",
+                "reference": "e0a6d7c7fb51735a244cfaac45d16a7b7e894e90",
                 "shasum": ""
             },
             "require": {
@@ -15507,14 +15411,14 @@
                 "scandipwa/catalog-graphql": "^2.14",
                 "scandipwa/cms-graphql": "^1.3",
                 "scandipwa/customer-graph-ql": "^2.2.3",
-                "scandipwa/customization": "^1.0.3",
+                "scandipwa/customization": "^1.1",
                 "scandipwa/klarna-graphql": "^1.1",
                 "scandipwa/locale": "^1.0",
                 "scandipwa/menu-organizer": "^2.0",
                 "scandipwa/paypal-graphql": "^1.0",
                 "scandipwa/performance": "^1.0",
                 "scandipwa/persisted-query": "^2.3.1",
-                "scandipwa/quote-graphql": "^2.13",
+                "scandipwa/quote-graphql": "^2.14",
                 "scandipwa/reviews-graphql": "^1.0",
                 "scandipwa/route717": "^1.6",
                 "scandipwa/slider-graphql": "^2.0",
@@ -15561,7 +15465,7 @@
                 "scandipwa",
                 "source"
             ],
-            "time": "2020-07-27T14:24:21+00:00"
+            "time": "2020-08-18T16:06:07+00:00"
         },
         {
             "name": "scandipwa/store-graphql",
@@ -21078,6 +20982,7 @@
             "keywords": [
                 "tokenizer"
             ],
+            "abandoned": true,
             "time": "2017-11-27T05:48:46+00:00"
         },
         {
@@ -21543,6 +21448,7 @@
             ],
             "description": "FinderFacade is a convenience wrapper for Symfony's Finder component.",
             "homepage": "https://github.com/sebastianbergmann/finder-facade",
+            "abandoned": true,
             "time": "2020-01-16T08:08:45+00:00"
         },
         {
